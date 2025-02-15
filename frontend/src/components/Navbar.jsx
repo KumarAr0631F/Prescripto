@@ -40,7 +40,7 @@ const Navbar = () => {
           <li className="py-1">Contact</li>
           <hr className="border-none outline-none h-0.5 bg-primary w-3/5 m-auto hidden" />
         </NavLink>
-        <NavLink to="http://localhost:5174/">
+        <NavLink to="https://prescripto-admin-zhid.onrender.com">
           <li className="py-1">Admin</li>
           <hr className="border-none outline-none h-0.5 bg-primary w-3/5 m-auto hidden" />
         </NavLink>
